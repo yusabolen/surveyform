@@ -1,0 +1,26 @@
+h1{
+    font-size: 70px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+/* inline elementlerde esneklik sağlıyor */
+.bilgi label{
+   display: flex; 
+   margin-bottom: 16px;
+}
+
+.bilgi input{
+    height: 25px;
+    
+}
+
+.radio label{
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
